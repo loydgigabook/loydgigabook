@@ -215,3 +215,7 @@ pip-log.txt
 .mr.developer.cfg
 
 .txt
+fileignore
+*fileignore
+fileignore.txt
+*fileignore.txts
