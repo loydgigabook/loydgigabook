@@ -214,8 +214,5 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-.txt
+
 fileignore
-*fileignore
-fileignore.txt
-*fileignore.txts
